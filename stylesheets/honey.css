@@ -1,0 +1,21 @@
+/* This file is not licensed.
+ * If you decide to copy or share it there is nothing I can do to stop you. 
+ * 
+ * Domagoj Boros, 2012. */
+
+body {
+	background-image:url("../images/grid.png");
+	font-family:Monospace;
+}
+
+#naslov {
+	text-align:center;
+}
+
+a:link {
+	color:green;
+}
+
+#bio {
+	text-align:justify;
+}
