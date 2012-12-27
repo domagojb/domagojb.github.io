@@ -9,13 +9,40 @@ body {
 }
 
 #naslov {
-	text-align:center;
+	position:absolute;
+	top:50px;
+	left:100px;
 }
 
-a:link {
+a {
 	color:green;
+	text-decoration:none;
 }
 
-#bio {
+div.mytextbox {
+	position:absolute;
+	width:350px;
 	text-align:justify;
+}
+
+div#aboutme {
+	top:100px;
+	left:100px;
+}
+
+div#projects {
+	top:100px;
+	left:500px;
+}
+
+div#contactme {
+	top:400px;
+	left:100px;
+}
+
+div.reference {
+	position:absolute;
+	width:200;
+	top:100px;
+	left:900px;
 }
