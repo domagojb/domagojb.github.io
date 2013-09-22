@@ -1,0 +1,33 @@
+<div class="textbox">
+			<h2>About me.</h2> 
+			<p>My name is Domagoj Boroš and I am a 19 year old student from Croatia. Currently, I am a sophomore at the <a href="http://www.fer.unizg.hr/en" target="_blank">Faculty of Electrical Engineering and Computing</a>, University of Zagreb. My interests are in open source and linux programming. </p>
+			<p>My knowledge lies in these areas:</p>
+			<ul>
+				<li>C</li>
+				<li>C++</li>
+				<li>python</li>
+				<li>SDL</li>
+				<li>html + css</li>
+			</ul>
+			<p>I am open for collaboration.</p>
+	    </div>
+
+		<div class="textbox"> 
+			<h2>Projects.</h2>
+			<p><b>webcomic</b> - a python module for downloading and loading comics from the web. You can download the source code from <a href="https://github.com/domagojb/webcomic" target="_blank">here.</a></p>
+			<p><b>spaceshot</b> - a <a href="http://en.wikipedia.org/wiki/Space_Invaders" target="_blank">"space invaders"</a> like clone which I made when I started to learn programming. It's made using C++ and <a href="http://www.libsdl.org/" target="_blank">SDL</a>. You can donwload the source code <a href="https://github.com/domagojb/spaceshot" target="_blank">here.</a> <small> The source code is horrible. It will compile but it probably will not work properly :(</small></p>
+		</div>
+		
+
+	
+		<div class="textbox">
+			<h2>Contact me.</h2>
+			<p> Fill free to send me an <a href="mailto:boros.domagoj@gmail.com" target="_blank">email</a>, or add me on <a href="https://plus.google.com/u/0/116838983934135322685/" target="_blank">google plus</a>.<p>
+		</div>
+
+	    <div id="left">
+			<h3>Chek out these cool links.</h3>
+			<p><a href="http://linuxzasve.com" target="_blank">linuxzasve.com</a> - most friendly Croatian linux community</p>
+			<p><a href="http://plsr.tk/" target="_blank">plsr.tk</a> - fast and simple way to blog</p>
+		</div>
+

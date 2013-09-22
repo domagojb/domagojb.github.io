@@ -1,48 +1,52 @@
 /* This file is not licensed.
- * If you decide to copy or share it there is nothing I can do to stop you. 
- * 
- * Domagoj Boros, 2012. */
+ * If you decide to copy or share it there is nothing I can do to stop you.
+ *
+ * Domagoj Boroš, 2013. */
+
+/* General body stlye */
 
 body {
-	background-image:url("../images/gray_jean.png");
-	font-family:Monospace;
+    background-image:url("../images/binding_dark.png");
+    font-family: Monospace, sans-serif;
+    font-size: 30px;
 }
 
-#naslov {
-	position:absolute;
-	top:50px;
-	left:100px;
+table {
+    display: block;
+    position: relative;
+    top: 100px;
 }
 
-a {
-	color:green;
-	text-decoration:none;
+td {
+    border: white solid 1px;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    opacity: 0.6;
+    position: relative;
 }
 
-div.mytextbox {
-	position:absolute;
-	width:350px;
-	text-align:justify;
+td:hover {
+    opacity: 1;
 }
 
-div#aboutme {
-	top:100px;
-	left:100px;
+td div {
+    float: right;
 }
 
-div#projects {
-	top:100px;
-	left:500px;
+td div.text {
+    display: none;
 }
 
-div#contactme {
-	top:400px;
-	left:100px;
+td:hover > div.text {
+    font-size: 16px;
+    border: white solid 1px;
+    border-radius: 10px;
+    background-color: #eeeeee;
+    display: block;
+    position: absolute;
+    left: 220px;
 }
 
-div.reference {
-	position:absolute;
-	width:200;
-	top:100px;
-	left:900px;
+li {
+    list-style: none;
 }
